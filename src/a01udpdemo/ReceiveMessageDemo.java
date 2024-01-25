@@ -1,2 +1,4 @@
-package a01udpdemo;public class ReceiveMessageDemo {
+package a01udpdemo;
+
+public class ReceiveMessageDemo {
 }
