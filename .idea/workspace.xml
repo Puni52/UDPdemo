@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ceea0492-4b65-4da6-9131-b66b395ab017" name="更改" comment="">
+    <list default="true" id="ceea0492-4b65-4da6-9131-b66b395ab017" name="更改" comment="发送端">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/a01udpdemo/ReceiveMessageDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/a01udpdemo/ReceiveMessageDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/a01udpdemo/SendMessageDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/a01udpdemo/SendMessageDemo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,6 +47,44 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RunManager" selected="应用程序.SendMessageDemo">
+    <configuration name="ReceiveMessageDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="a01udpdemo.ReceiveMessageDemo" />
+      <module name="UDPdemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="a01udpdemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SendMessageDemo" type="Application" factoryName="Application" singleton="false" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="a01udpdemo.SendMessageDemo" />
+      <module name="UDPdemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="a01udpdemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="应用程序.ReceiveMessageDemo" />
+      <item itemvalue="应用程序.SendMessageDemo" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="应用程序.SendMessageDemo" />
+        <item itemvalue="应用程序.ReceiveMessageDemo" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="默认任务">
@@ -56,11 +93,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1706152076794</updated>
-      <workItem from="1706152077835" duration="1034000" />
+      <workItem from="1706152077835" duration="1726000" />
     </task>
+    <task id="LOCAL-00001" summary="发送端">
+      <option name="closed" value="true" />
+      <created>1706153143746</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1706153143746</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="发送端" />
+    <option name="LAST_COMMIT_MESSAGE" value="发送端" />
   </component>
 </project>
